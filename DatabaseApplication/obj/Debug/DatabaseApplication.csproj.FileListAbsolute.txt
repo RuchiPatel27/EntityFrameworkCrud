@@ -1,0 +1,14 @@
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\DatabaseApplication.dll
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\DatabaseApplication.pdb
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.AssemblyReference.cache
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.CoreCompileInputs.cache
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\obj\Debug\DatabaseApplication.dll
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\DatabaseApplication.dll.config
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFramework.dll
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFramework.xml
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.CopyComplete
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFrameworkModels.dll
+D:\Ruchi\EntityFrameworkUsingCrud\DatabaseApplication\bin\Debug\EntityFrameworkModels.pdb

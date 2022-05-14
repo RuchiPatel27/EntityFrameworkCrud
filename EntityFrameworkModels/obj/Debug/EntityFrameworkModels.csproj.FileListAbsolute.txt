@@ -1,0 +1,6 @@
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\bin\Debug\EntityFrameworkModels.dll
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\bin\Debug\EntityFrameworkModels.pdb
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\obj\Debug\EntityFrameworkModels.csproj.AssemblyReference.cache
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\obj\Debug\EntityFrameworkModels.csproj.CoreCompileInputs.cache
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\obj\Debug\EntityFrameworkModels.dll
+D:\Ruchi\EntityFrameworkUsingCrud\EntityFrameworkModels\obj\Debug\EntityFrameworkModels.pdb
